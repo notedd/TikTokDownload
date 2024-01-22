@@ -1,0 +1,11 @@
+1、可以在windows中使用自动获取浏览器的cookie生成config文件
+    安装TikTokTool命令行
+    ./TikTokTool --auto-cookie chrome
+
+2、f2里面timestamp_2_str函数有bug
+    if timestamp is None:
+            return ""
+    if timestamp == 'None':
+        return ""
+
+3、python3 TikTokTool.py -c app.yaml -M one -u https://v.douyin.com/iL9abM2v/

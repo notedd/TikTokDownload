@@ -1,0 +1,103 @@
+douyin:
+  cookie: FOLLOW_LIVE_POINT_INFO=%22MS4wLjABAAAAsaI2V1zEDtq0Nrk0mlnkpenlKFWo_wvvXV9xgGgymUg%2F1705939200000%2F0%2F1705913331404%2F0%22;
+    FORCE_LOGIN=%7B%22videoConsumedRemainSeconds%22%3A180%2C%22isForcePopClose%22%3A1%7D;
+    IsDouyinActive=false; LOGIN_STATUS=1; __security_server_data_status=1; _bd_ticket_crypt_cookie=b736bc03f229ca83e1e19bcb93306fca;
+    _bd_ticket_crypt_doamin=2; bd_ticket_guard_client_data=eyJiZC10aWNrZXQtZ3VhcmQtdmVyc2lvbiI6MiwiYmQtdGlja2V0LWd1YXJkLWl0ZXJhdGlvbi12ZXJzaW9uIjoxLCJiZC10aWNrZXQtZ3VhcmQtcmVlLXB1YmxpYy1rZXkiOiJCUFJjU0oxRGZvbDRVNVZpSmNETjZ0QjFNL1R6di8veDVzVzQ4L29sU25BTjBIYUFtN2o2ZnhNaFJKMVFwK0xWWmdIcm81TWN2d3NUUENMU0NQcVk5TjQ9IiwiYmQtdGlja2V0LWd1YXJkLXdlYi12ZXJzaW9uIjoxfQ%3D%3D;
+    bd_ticket_guard_client_web_domain=2; bd_ticket_guard_server_data=eyJ0aWNrZXQiOiI5NmNmMjRkOTEzMDI5NWJhNjdiMjI1MGU0ZTEwMzhlMyIsInRzX3NpZ24iOiJ0cy4xLjViNjYzYTI4YmVlZDExZWNmZDZiYjgwZjg0MTQ1NmJhZmU4YWY3OWJlZGViM2ZiMDc4MjI5MDg4ZDI2M2MxMjVjNGZiZTg3ZDIzMTljZjA1MzE4NjI0Y2VkYTE0OTExY2E0MDZkZWRiZWJlZGRiMmUzMGZjZThkNGZhMDI1NzVkIiwiY2xpZW50X2NlcnQiOiJwdWIuQlBSY1NKMURmb2w0VTVWaUpjRE42dEIxTS9UenYvL3g1c1c0OC9vbFNuQU4wSGFBbTdqNmZ4TWhSSjFRcCtMVlpnSHJvNU1jdndzVFBDTFNDUHFZOU40PSJ9;
+    d_ticket=f0975431dd199db55c323e659c58f72101917; download_guide=%222%2F20240122%2F0%22;
+    home_can_add_dy_2_desktop=%221%22; msToken=X1mGCvCuuThC08bOEj32rMT-DC8cD6PqMTQHIt8gtioQ_GMBKu5ifVBtKdtzoI9AUtk-1ziLZ-zM5t3VbgFxrSUUvDad4Or0ixo4jahu7xKr0XfbvLIF;
+    n_mh=XgmQP4bLHOOhP1CyV8tUiMUjTHIP6vrewCRsRFvzH_8; odin_tt=904843a06c942daf86fd8152c8eb501edafb209c03c20f89cbbf0d1ee5e6a395b22a0b65207cbddae4a0d4ec0b5e5a3e;
+    passport_assist_user=CjwdbmWPq-Pd4dDwJw2T0OyS2RwAIZqi7GKDpOmVBt6Jl7jY-or6Pu6cE40H07bp_FEmAF-EZhX_985hU4MaSgo8Lmsb-1jtNhXlITb3oHiXgLac7DOL98yN1Tv_U4xgNwPI7ne4DY-HsAEp1g0XQsXQoOlCTzrLJUA8xbtyEOiqxw0Yia_WVCABIgEDvT9Ccg%3D%3D;
+    passport_auth_status=8eb2fb989b2559409f91325283de7345%2C; passport_auth_status_ss=8eb2fb989b2559409f91325283de7345%2C;
+    passport_csrf_token=fbbfc0f63fd32399b1b9462f7969d78c; passport_csrf_token_default=fbbfc0f63fd32399b1b9462f7969d78c;
+    publish_badge_show_info=%220%2C0%2C0%2C1705913330977%22; pwa2=%220%7C0%7C1%7C0%22;
+    sessionid=96cf24d9130295ba67b2250e4e1038e3; sessionid_ss=96cf24d9130295ba67b2250e4e1038e3;
+    sid_guard=96cf24d9130295ba67b2250e4e1038e3%7C1705913358%7C5183964%7CFri%2C+22-Mar-2024+08%3A48%3A42+GMT;
+    sid_tt=96cf24d9130295ba67b2250e4e1038e3; sid_ucp_sso_v1=1.0.0-KGVjYWIxNzEwMDMyNDVlNjA5OTRhYTg5MjEzYzdmMGE0YWFhYWE5NDkKHQj9jO_ckgIQ5te4rQYY7zEgDDCm3tTPBTgGQPQHGgJsZiIgNTA0YjNjODdhODcwOTY1MjA2ODc0OGU4Njg5ODExMzI;
+    sid_ucp_v1=1.0.0-KDQ4Y2FlY2I2ZjE0MGZiZGFmN2NkYmI4NThjMDYwMTI2MjA3Y2Q0NWMKGQj9jO_ckgIQjti4rQYY7zEgDDgGQPQHSAQaAmxmIiA5NmNmMjRkOTEzMDI5NWJhNjdiMjI1MGU0ZTEwMzhlMw;
+    ssid_ucp_sso_v1=1.0.0-KGVjYWIxNzEwMDMyNDVlNjA5OTRhYTg5MjEzYzdmMGE0YWFhYWE5NDkKHQj9jO_ckgIQ5te4rQYY7zEgDDCm3tTPBTgGQPQHGgJsZiIgNTA0YjNjODdhODcwOTY1MjA2ODc0OGU4Njg5ODExMzI;
+    ssid_ucp_v1=1.0.0-KDQ4Y2FlY2I2ZjE0MGZiZGFmN2NkYmI4NThjMDYwMTI2MjA3Y2Q0NWMKGQj9jO_ckgIQjti4rQYY7zEgDDgGQPQHSAQaAmxmIiA5NmNmMjRkOTEzMDI5NWJhNjdiMjI1MGU0ZTEwMzhlMw;
+    sso_uid_tt=8027e942636cd04206b417f66ecacf14; sso_uid_tt_ss=8027e942636cd04206b417f66ecacf14;
+    store-region=cn-hn; store-region-src=uid; strategyABtestKey=%221705906685.752%22;
+    stream_player_status_params=%22%7B%5C%22is_auto_play%5C%22%3A0%2C%5C%22is_full_screen%5C%22%3A0%2C%5C%22is_full_webscreen%5C%22%3A0%2C%5C%22is_mute%5C%22%3A0%2C%5C%22is_speed%5C%22%3A1%2C%5C%22is_visible%5C%22%3A0%7D%22;
+    stream_recommend_feed_params=%22%7B%5C%22cookie_enabled%5C%22%3Atrue%2C%5C%22screen_width%5C%22%3A1920%2C%5C%22screen_height%5C%22%3A1080%2C%5C%22browser_online%5C%22%3Atrue%2C%5C%22cpu_core_num%5C%22%3A12%2C%5C%22device_memory%5C%22%3A8%2C%5C%22downlink%5C%22%3A5.05%2C%5C%22effective_type%5C%22%3A%5C%224g%5C%22%2C%5C%22round_trip_time%5C%22%3A100%7D%22;
+    toutiao_sso_user=504b3c87a8709652068748e868981132; toutiao_sso_user_ss=504b3c87a8709652068748e868981132;
+    ttwid=1%7CnCU-EQI_Q-sE3ZF-SPQr6Et_SKeGELjDJvO-K62rUGc%7C1705906670%7Caf721ce5da6e3d80eb36aed596797c7b530fe84a90638630b4d34e707e23ba5d;
+    uid_tt=5394904c17192ec1abd274745d71b6eb; uid_tt_ss=5394904c17192ec1abd274745d71b6eb;
+    volume_info=%7B%22isUserMute%22%3Afalse%2C%22isMute%22%3Afalse%2C%22volume%22%3A0.5%7D;
+    b-user-id=33486cc2-3138-b998-737a-3d8a1594b900; __ac_nonce=065ae2be800a03a3a8315;
+    __ac_signature=_02B4Z6wo00f01seiezQAAIDB-gthqHwOklLHgn-AANRT06; bd_ticket_guard_web_domain=2;
+    dy_sheight=1080; dy_swidth=1920; s_v_web_id=verify_lrooqur2_HGusTWQn_KZxw_44Va_AKEj_4x2M7KGdsYIG;
+    tt_scid=q2tFMbiUVQ2rLAOaAj0QsVL.ZaBDIsk41Xf6v2CI8xoyU.hFI.Rdj5MyXPx6EnIs1814;
+    ttcid=58dca48fad95419491734ca713354b6239
+  cover: true
+  desc: true
+  folderize: true
+  headers:
+    Referer: https://www.douyin.com/
+    User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML,
+      like Gecko) Chrome/104.0.0.0 Safari/537.36
+  interval: all
+  max_connections: 5
+  max_counts: 0
+  max_retries: 5
+  max_tasks: 5
+  mode: post
+  msToken:
+    User-Agent: 5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like
+      Gecko) Chrome/117.0.0.0 Safari/537.36 Edg/117.0.2045.47
+    dataType: 8
+    magic: 538969122
+    strData: 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
+    url: https://mssdk.bytedance.com/web/report
+    version: 1
+  music: true
+  naming: '{create}_{desc}'
+  page_counts: 20
+  path: Download
+  proxies:
+    http: null
+    https: null
+  timeout: 10
+  ttwid:
+    data: '{"region":"cn","aid":1768,"needFid":false,"service":"www.ixigua.com","migrate_info":{"ticket":"","source":"node"},"cbUrlProtocol":"https","union":true}'
+    url: https://ttwid.bytedance.com/ttwid/union/register/
+  url: ''
+tiktok:
+  cookie: ''
+  cover: true
+  desc: true
+  folderize: true
+  headers:
+    Referer: https://www.tiktok.com/
+    User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML,
+      like Gecko) Chrome/104.0.0.0 Safari/537.36
+  interval: all
+  max_connections: 5
+  max_counts: 0
+  max_retries: 5
+  max_tasks: 5
+  mode: post
+  msToken:
+    User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML,
+      like Gecko) Chrome/119.0.0.0 Safari/537.36
+    dataType: 8
+    magic: 538969122
+    strData: 3BvqYbNXLLOcZehvxZVbjpAu7vq82RoWmFSJHLFwzDwJIZevE0AeilQfP55LridxmdGGjknoksqIsLqlMHMif0IFK/Br7JWqxOHnYuMwVCnttFc0Y4MFvdVWM5FECiEulJC0Dc+eeVsNSrFnAc9K7fazqdglyJgGLSfXIJmgyCvvQ4pg0u5HBVVugLSWs242X42fjoWymaUCLZJQo6vi6WLyuV7l5IC3Mg+lelr5xBQD6Q7hBIFEw8zzxJ1n2DyA4xLbOHTQdKvEtsK7XzyWwjpRnojPTbBl69Zosnuru+lOBIl+tFu/+hCQ1m0jYZwTP4rVE75L3Du6+KZ5v/9TyFYjq7y3y9bGLP4d7yQueJbF90G1yrZ6htElrZ2vqZKDrIqBVbmOZr/nph12k2JKrITtN0R/pMsp0sJ4gesQnXxcD/pLOFAINHk7umgbe6LzJ7+TLUdGuO4M7xiEg/jCqhjgJX1izZ4NPoBDp35zRxj6Y6OrcstlTN/cv5sz663+Nco/mEwhGq2VwrL4gAIAPycndIsb48dPdtngmLqNDNN0ZyVRjgqVIDXXrxigXCkR9CH89Dlrrb7QQqWVgRXz9/k5ihEM43BR3sd3mMU/XgFLN1Aoxf6GzzdxP2QPBI75/ZoHoAmu54v8gTmA3ntCGlEF0zgaFGTdpkGdb+oZgyQM4pw1aAyxmFINXkpD3IKKoGev9kD9gTFnhiQMGCMemhZS7ZYdbuGu0Cb+lQKaL/QTt80FMyGmW8kzVy9xW/ja9BcdEJYRoaufuFRkBFG5ay8x4WHLR6hEapXqQial/cREbLL4sQytpjtmnndFqvT7xN5DhgsLY2Z7451MJhD6NJXKNrMafGZSbItzQWY=
+    url: https://mssdk-sg.tiktok.com/web/common?msToken=1Ab-7YxR9lUHSem0PraI_XzdKmpHb6j50L8AaXLAd2aWTdoJCYLfX_67rVQFE4UwwHVHmyG_NfIipqrlLT3kCXps-5PYlNAqtdwEg7TrDyTAfCKyBrOLmhMUjB55oW8SPZ4_EkNxNFUdV7MquA==
+    version: 1
+  music: true
+  naming: '{create}_{desc}'
+  odin_tt:
+    url: https://www.tiktok.com/passport/web/account/info/?aid=1459&app_language=zh-Hans&app_name=tiktok_web&browser_language=zh-CN&browser_name=Mozilla&browser_online=true&browser_platform=Win32&browser_version=5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F119.0.0.0%20Safari%2F537.36&channel=tiktok_web&cookie_enabled=true&device_id=7306060721837852167&root_referer=https%3A%2F%2Fwww.tiktok.com%2Flogin%2F
+  page_counts: 5
+  path: Download
+  proxies:
+    http: null
+    https: null
+  timeout: 10
+  ttwid:
+    cookie: ttwid=1%7CovVQu2St-HXSHAdEfZ7tljPe151SZ88AbrlTirlaC6w%7C1701072604%7C49b17849da69bafc3638e794f3f26b30fe9677c5253e65a2a5f615489846ce02
+    data: '{"aid":1988,"service":"www.tiktok.com","union":false,"unionHost":"","needFid":false,"fid":"","migrate_priority":0}'
+    url: https://www.tiktok.com/ttwid/check/
+  url: ''
